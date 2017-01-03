@@ -35,7 +35,7 @@ To  editor requires no parameters
 This is currently not published, so only running locally is supported:
 
 ```bash
-rug -Xl edit AddGpl3LicenseFile -C \<some project dir\>
+rug -Xl edit AddGpl3LicenseFile -C <some project dir>
 ```
 
 ## Support
