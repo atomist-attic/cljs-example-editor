@@ -4,6 +4,8 @@
 
 This [Rug](http://docs.atomist.com/) is an example of a ClojureScript based editor.
 
+*This rug is not published, and will never be, and therefore cannot be consumed by other rugs*
+
 ## Notes
 
 *   Need to make sure that external things like Rug types are expressed in 'externs.js'. Otherwise, the google closure compiler breaks some stuff.
